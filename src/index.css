@@ -1,0 +1,17 @@
+.news-feed {
+  background-color: red;
+}
+
+.currency-converter {
+  background-color: blue;
+}
+
+.exchange-rate {
+  background-color: green;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
